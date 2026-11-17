@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://aishatorewa.github.io/FourCardFeatureProject/)
+- Live Site URL: [Live Site](https://aishatorewa.github.io/FourCardFeatureProject/)
 
 ## My process
 
